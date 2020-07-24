@@ -1,6 +1,6 @@
 {
   "name": "google-err",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Google your errors/queries, directly from console.",
   "homepage": "https://github.com/pathakshashank17/google-err",
   "main": "../lib/googleErr.js",
