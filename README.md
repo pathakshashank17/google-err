@@ -1,5 +1,5 @@
 # google-err v1.0.0
-Google your errors and/or queries directly from console.
+Search the web for your errors and/or queries directly from console.
 
 # Installation
 Global installation is recommended. Using npm: <br>
