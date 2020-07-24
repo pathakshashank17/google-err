@@ -1,4 +1,4 @@
-# google-err v1.0.0
+# google-err v1.0.1
 Search the web for your errors and/or queries directly from console.
 
 # Installation
